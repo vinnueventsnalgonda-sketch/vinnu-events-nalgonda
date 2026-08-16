@@ -65,3 +65,5 @@
   },{threshold:.12,rootMargin:'0px 0px -5% 0px'});
   items.forEach(el=>observer.observe(el));
 })();
+
+(()=>{const s=document.createElement('script');s.src='/offers.js?v=1';s.defer=true;document.body.appendChild(s)})();
